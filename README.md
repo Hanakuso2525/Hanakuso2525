@@ -1,16 +1,15 @@
-### Hi there 👋
+# 自己紹介
 
-<!--
-**hanakuso316/hanakuso316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+こんにちは、「はなくそ」です。
+PythonとかHTMLで遊んでいる人です。このGithubでは僕なりに面白いと思ったコードとかを紹介していきます！
+どうぞ、よろしくおねがいします！あと、ここにあるコードは全て **ライセンス** があるので目を通してください。
 
-Here are some ideas to get you started:
+# GitHub Stats  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanakuso316&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanakuso316)](https://github.com/anuraghazra/github-readme-stats)
+
+# 現在更新しているリポジトリ  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanakuso316&repo=discord-fortnite)](https://github.com/namakemono-san/discord-fortnite)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanakuso316&repo=discord-language-change)](https://github.com/namakemono-san/discord-language-change)
